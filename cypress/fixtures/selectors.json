@@ -1,0 +1,10 @@
+{
+  "email": "hello@cypress.io",
+  "iemail":"lolo",
+  "avatarIcon":".elm_icon_text > .fa",
+  "emailField":"#reg_email",
+  "registerBtn":".woocommerce-Button",
+  "registerTitle":".u-column2 > h2",
+  "dashboard":".woocommerce-MyAccount-navigation-link--dashboard > a",
+  "dashboardText":"Dashboard"
+}
